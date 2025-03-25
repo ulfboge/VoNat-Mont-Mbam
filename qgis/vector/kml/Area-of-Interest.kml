@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aoi" id="aoi">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="width" type="float"></SimpleField>
+	<SimpleField name="height" type="float"></SimpleField>
+	<SimpleField name="angle" type="float"></SimpleField>
+	<SimpleField name="area" type="float"></SimpleField>
+	<SimpleField name="perimeter" type="float"></SimpleField>
+</Schema>
+<Folder><name>aoi</name>
+  <Placemark id="aoi.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#aoi">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="id">0</SimpleData>
+		<SimpleData name="width">0.089535</SimpleData>
+		<SimpleData name="height">0.139995</SimpleData>
+		<SimpleData name="angle">162.904909</SimpleData>
+		<SimpleData name="area">0.012534</SimpleData>
+		<SimpleData name="perimeter">0.45906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>10.6602187998397,5.83350027116427 10.7812087409039,5.8458115283252 10.7587088571271,6.00798050196224 10.6368698638448,6.00033903200029 10.6602187998397,5.83350027116427</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
