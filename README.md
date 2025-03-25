@@ -1,42 +1,57 @@
-# VoNat Mont Mbam Biodiversity Conservation Project
+# VoNat-Mont-Mbam
+
+A geospatial analysis project focused on the Mont Mbam region, utilizing QGIS for spatial data processing and visualization.
 
 ## Project Overview
-This repository contains spatial data analysis and mapping for Voice of Nature (VoNat), a Cameroon community-based biodiversity conservation and sustainable development non-profit organization. The project focuses on analyzing land cover and environmental conditions in the Mont Mbam area.
 
-## Project Objectives
-- Analyze land cover patterns in Mont Mbam area
-- Monitor forest loss using Hansen Global Forest Change dataset
-- Assess fire frequency and patterns
-- Generate comprehensive environmental analysis for conservation planning
+This repository contains geospatial data, analysis tools, and documentation for the VoNat-Mont-Mbam project. The project aims to analyze and visualize environmental data in the Mont Mbam region using QGIS.
 
 ## Repository Structure
+
 ```
 VoNat-Mont-Mbam/
-├── docs/                    # Project documentation and reports
-├── data/                    # Raw and processed spatial data
-├── scripts/                 # Analysis scripts
-├── outputs/                 # Final maps and figures
-├── metadata/               # Dataset descriptions
-├── references/             # Reference materials
-└── qgis/                   # QGIS project files
+├── data/                    # Data directory
+│   └── raw/                # Raw data files
+│       └── gps_points/     # GPS point data
+├── docs/                    # Documentation
+│   └── proposal/           # Project proposal documents
+├── metadata/               # Metadata documentation
+├── qgis/                   # QGIS project files
+│   ├── project/           # QGIS project files
+│   ├── vector/            # Vector data
+│   │   ├── geopackage/   # Geopackage files
+│   │   └── kml/          # KML files
+│   └── README.md         # QGIS-specific documentation
+├── CONTRIBUTING.md        # Contribution guidelines
+├── LICENSE               # MIT License
+└── README.md            # This file
 ```
 
 ## Data Sources
-- GPS point data from field surveys
-- Hansen Global Forest Change dataset
-- Fire frequency data (MODIS)
-- ESA WorldCover/Copernicus Land Cover
-- SRTM Digital Elevation Model
+
+- GPS Points: Field-collected GPS coordinates
+- Area of Interest: Defined study area boundaries
+- Additional geospatial data (as specified in metadata)
 
 ## Getting Started
-1. Clone this repository
-2. Open the QGIS project file in the `qgis` directory
-3. Review the documentation in the `docs` folder
-4. Raw data is stored in `data/raw`
-5. Processed outputs can be found in `data/processed`
 
-## Contact
-For more information about Voice of Nature (VoNat), visit: https://vonat.org/
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ulfboge/VoNat-Mont-Mbam.git
+   ```
+
+2. Open the QGIS project:
+   - Navigate to `qgis/project/`
+   - Open `VoNat.qgz` in QGIS
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
-This project is licensed under [License Type] - see the LICENSE file for details. 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or collaboration inquiries, please open an issue in the GitHub repository. 
