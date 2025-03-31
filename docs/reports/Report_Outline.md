@@ -53,6 +53,10 @@ The region's ecological composition is characterized by a complex mosaic of habi
 
 **Description:** This map displays the spatial distribution of 268 GPS points documenting key ecological features and land use patterns in the Mont Mbam region. The points capture various landscape elements including burnt areas, riparian forests, water sources, and settlements, providing insights into current land use practices and environmental conditions.
 
+**Figure 1: Field Survey Points Distribution**
+![Field Survey Points](outputs/maps/Survey Points.png)
+*Spatial distribution of 268 GPS points documenting ecological features and land use patterns in the Mont Mbam region. The map highlights key landscape elements including burnt areas, riparian forests, water sources, and settlements, providing a comprehensive view of current environmental conditions and human activities in the study area.*
+
 #### 3.1.2 Field Survey Findings Summary
 - **Land Use Patterns:**
   - Prevalence of burnt areas for grazing
@@ -80,9 +84,13 @@ The region's ecological composition is characterized by a complex mosaic of habi
 
 **Description:** This map presents the current land cover classification of the Mont Mbam region, highlighting the distribution of major land cover types including forests, grasslands, and human-modified areas. The classification provides a baseline understanding of the landscape composition and helps identify areas of natural vegetation, agricultural activities, and human settlements.
 
-- Current land cover distribution
-- Land cover change patterns
-- Habitat fragmentation assessment
+**Figure 2: Land Cover Distribution (2021)**
+![Land Cover Distribution](outputs/maps/Land Cover 2021.png)
+*Current land cover classification of the Mont Mbam region based on ESA WorldCover 2021 data. The map illustrates the spatial distribution of major land cover types, including forests, grasslands, shrublands, and human-modified areas. This classification provides a detailed understanding of the current landscape composition and helps identify areas of natural vegetation, agricultural activities, and human settlements.*
+
+**Figure 3: Land Cover Distribution Chart**
+![Land Cover Distribution Chart](outputs/charts_figures/land_cover_distribution.png)
+*Distribution of major land cover types in the Mont Mbam region, with categories less than 1% grouped into "Other".*
 
 ### 3.3 Forest Status Assessment
 #### 3.3.1 Forest Cover Baseline Map
@@ -90,9 +98,17 @@ The region's ecological composition is characterized by a complex mosaic of habi
 
 **Description:** This map illustrates the forest canopy cover distribution in the Mont Mbam region for the year 2000, derived from the Hansen Global Forest Change dataset. The data represents tree canopy closure for all vegetation taller than 5 meters in height, providing a baseline understanding of the region's forest structure. This baseline map serves as a crucial reference point for assessing subsequent forest changes and degradation patterns.
 
-- Forest cover extent
-- Forest quality assessment
-- Deforestation/degradation patterns
+**Figure 4: Forest Cover Baseline (2000)**
+![Forest Cover Baseline](outputs/maps/Forest Cover 2000.png)
+*Forest canopy cover distribution in the Mont Mbam region for the year 2000, derived from the Hansen Global Forest Change dataset. The map shows tree canopy closure for all vegetation taller than 5 meters in height, providing a baseline understanding of the region's forest structure. This serves as a crucial reference point for assessing subsequent forest changes and degradation patterns.*
+
+**Figure 5: Annual Forest Loss (2001-2023)**
+![Annual Forest Loss](outputs/charts_figures/annual_forest_loss.png)
+*Annual forest loss in hectares from 2001 to 2023, showing the yearly rate of forest degradation.*
+
+**Figure 6: Cumulative Forest Loss (2001-2023)**
+![Cumulative Forest Loss](outputs/charts_figures/cumulative_forest_loss.png)
+*Cumulative forest loss over time, demonstrating the total impact of forest degradation since 2001.*
 
 ### 3.4 Biodiversity Assessment
 - Species distribution
