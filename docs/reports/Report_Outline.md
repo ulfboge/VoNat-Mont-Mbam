@@ -19,7 +19,22 @@ The Mont Mbam region encompasses a diverse ecological landscape characterized by
 - Climate: Equatorial with dry winters
 - Topography: Mountainous terrain
 - Hydrology
-- Land area composition
+- Land area composition:
+  - Total area: 16,630 hectares
+  - Major land cover types (2021):
+    - Tree cover: Dominant vegetation type
+    - Shrubland: Secondary vegetation cover
+    - Grassland: Significant component
+    - Cropland: Agricultural areas
+    - Built-up: Human settlements and infrastructure
+    - Bare/sparse vegetation: Limited areas
+    - Permanent water bodies: Present but limited
+    - Herbaceous wetland: Minor component
+  - Forest status:
+    - Modified forest landscapes
+    - No intact forest present
+    - Significant forest loss since 2000
+    - Ongoing forest degradation
 
 #### 1.2.3 Ecological Characteristics
 The region's ecological composition is characterized by a complex mosaic of habitats and vegetation types:
