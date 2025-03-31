@@ -148,9 +148,48 @@ The region's ecological composition is characterized by a complex mosaic of habi
 - Conservation priorities
 
 ## 6. References
-- Data sources
-- Literature cited
-- Technical documentation
+### 6.1 Remote Sensing Data Sources
+#### ESA WorldCover 2021
+- **Source:** European Space Agency (ESA)
+- **Dataset:** WorldCover 2021
+- **Resolution:** 10m
+- **Coverage:** Global
+- **Access:** https://worldcover2021.esa.int/
+- **Citation:** Zanaga, D., Van De Kerchove, R., De Keersmaecker, W., Souverijns, N., Brockmann, C., Quast, R., Wevers, J., Grosu, A., Paccini, A., Vergnaud, S., Cartus, O., Santoro, M., Fritz, S., Georgieva, I., Lesiv, M., Carter, S., Herold, M., Li, L., Tsendbazar, N., Ramoino, F., Arino, O. (2022). ESA WorldCover 10 m 2021 v200. Zenodo. https://doi.org/10.5281/zenodo.7254221
+
+#### Hansen Global Forest Change
+- **Source:** University of Maryland, Google, USGS, NASA
+- **Dataset:** Global Forest Change v1.9 (2000-2023)
+- **Resolution:** 30m
+- **Coverage:** Global
+- **Access:** https://earthenginepartners.appspot.com/science-2013-global-forest
+- **Citation:** Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman, S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. 2013. "High-Resolution Global Maps of 21st-Century Forest Cover Change." Science 342 (15 November): 850-53. https://doi.org/10.1126/science.1244693
+
+### 6.2 Field Data
+#### GPS Survey Points
+- **Collection Method:** Field survey using GPS devices
+- **Number of Points:** 268
+- **Date:** 2024
+- **Attributes:** Ecological features, land use patterns, water sources, settlements
+- **Format:** CSV and GeoPackage
+
+### 6.3 Software and Tools
+#### QGIS
+- **Version:** 3.34.0
+- **Purpose:** GIS data processing, analysis, and map creation
+- **Website:** https://qgis.org/
+
+#### Python Libraries
+- **pandas:** Data manipulation and analysis
+- **matplotlib:** Data visualization
+- **seaborn:** Statistical visualization
+- **numpy:** Numerical computing
+
+### 6.4 Project Documentation
+- Project Proposal
+- Field Survey Protocols
+- Data Processing Workflows
+- Analysis Methods Documentation
 
 ## 7. Appendices
 ### 7.1 Technical Documentation
