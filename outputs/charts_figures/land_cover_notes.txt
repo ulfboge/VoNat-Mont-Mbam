@@ -1,0 +1,5 @@
+Note about "Other" category in the Land Cover Distribution chart:
+
+The "Other" category (less than 1%) includes:
+- Built-up: 518 ha (1%)
+- Bare/sparse vegetation: 44 ha (<1%)

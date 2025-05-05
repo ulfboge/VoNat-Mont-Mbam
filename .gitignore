@@ -40,4 +40,51 @@ ENV/
 .env.*.local
 
 # Logs
-*.log 
+*.log
+
+# GIS and Raster files
+*.tif
+*.tiff
+*.geotiff
+*.img
+*.ecw
+*.sid
+*.jp2
+*.aux.xml
+
+# Vector data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.xml
+*.qix
+*.qpj
+*.gpkg-shm
+*.gpkg-wal
+
+# QGIS specific
+*.qgz
+*.qgs~
+
+# Large data files
+*.zip
+*.7z
+*.tar
+*.gz
+*.rar
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+
+# Exclude specific directories that might contain large files
+qgis/raster/
+outputs/charts_figures/

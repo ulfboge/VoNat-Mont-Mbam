@@ -1,0 +1,9 @@
+land_cover_code,land_cover_name,area_hectares,percentage_of_total
+10,Tree cover,26006,40
+20,Shrubland,3131,5
+30,Grassland,25693,39
+40,Cropland,4356,7
+50,Built-up,518,1
+60,Bare/sparse vegetation,44,0
+80,Permanent water bodies,2672,4
+90,Herbaceous wetland,2195,3
