@@ -1,14 +1,13 @@
 // Load the area of interest
-var aoi = ee.FeatureCollection("projects/ee-komba/assets/vonat/vonat-aoi");
-var aoiBounds = aoi.geometry().bounds();
+var aoi = ee.FeatureCollection("projects/ee-komba/assets/vonat/Mt_Mbam").geometry();
 
 // Center the map on the AOI
-Map.centerObject(aoiBounds, 10);
+Map.centerObject(aoi, 10);
 
 // 1. ESA WorldCover Land Cover Classification (10m)
 var worldCover = ee.ImageCollection("ESA/WorldCover/v200")
   .first()
-  .clip(aoiBounds);
+  .clip(aoi);
 
 // Add WorldCover to the map
 var worldCoverVis = {
@@ -28,7 +27,7 @@ var worldCoverStats = worldCoverArea.reduceRegion({
     groupField: 1,
     groupName: 'class',
   }),
-  geometry: aoiBounds,
+  geometry: aoi,
   scale: 10,
   maxPixels: 1e13
 });
@@ -38,7 +37,7 @@ print('Land Cover Area Statistics (sq meters):', worldCoverStats);
 
 // 2. Hansen Global Forest Change Analysis (2000-2024)
 var hansen = ee.Image('UMD/hansen/global_forest_change_2023_v1_11')
-  .clip(aoiBounds);
+  .clip(aoi);
 
 // Extract forest cover and loss layers
 var treeCover2000 = hansen.select(['treecover2000']);
@@ -55,7 +54,7 @@ Map.addLayer(loss, {min: 0, max: 1, palette: ['black', 'red']}, 'Forest Loss (20
 var forest2000Area = treeCover2000.gt(30).multiply(ee.Image.pixelArea())
   .reduceRegion({
     reducer: ee.Reducer.sum(),
-    geometry: aoiBounds,
+    geometry: aoi,
     scale: 30,
     maxPixels: 1e13
   });
@@ -65,7 +64,7 @@ print('Forest Area in 2000 (sq meters):', forest2000Area);
 var totalLossArea = loss.multiply(ee.Image.pixelArea())
   .reduceRegion({
     reducer: ee.Reducer.sum(),
-    geometry: aoiBounds,
+    geometry: aoi,
     scale: 30,
     maxPixels: 1e13
   });
@@ -78,7 +77,7 @@ var lossByYear = areaImage.reduceRegion({
     groupField: 1,
     groupName: 'year',
   }),
-  geometry: aoiBounds,
+  geometry: aoi,
   scale: 30,
   maxPixels: 1e13
 });
@@ -91,7 +90,7 @@ Export.image.toDrive({
   description: 'WorldCover_Export',
   folder: 'earthengine',
   fileNamePrefix: 'vonat_worldcover',
-  region: aoiBounds,
+  region: aoi,
   scale: 10,
   maxPixels: 1e13
 });
@@ -105,7 +104,7 @@ Export.image.toDrive({
   description: 'Hansen_Export',
   folder: 'earthengine',
   fileNamePrefix: 'vonat_hansen',
-  region: aoiBounds,
+  region: aoi,
   scale: 30,
   maxPixels: 1e13
 });
