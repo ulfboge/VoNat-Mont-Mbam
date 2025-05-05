@@ -1,5 +1,5 @@
 // Load the area of interest
-var aoi = ee.FeatureCollection("projects/ee-komba/assets/vonat/vonat-aoi");
+var aoi = ee.FeatureCollection("projects/ee-komba/assets/vonat/Mt_Mbam");
 var aoiBounds = aoi.geometry().bounds();
 
 // Center the map on the AOI
