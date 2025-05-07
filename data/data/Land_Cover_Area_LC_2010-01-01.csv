@@ -1,0 +1,9 @@
+system:index,Area (hectares),Land Cover Type,Year,.geo
+0,20612.7,Tree cover,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,10218.42,Shrubland,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,16779.24,Grassland,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,9330.93,Cropland,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,1978.29,Built-up,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,1506.69,Bare / sparse vegetation,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,2462.13,Permanent water bodies,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,2709.45,Herbaceous wetland,LC_2010-01-01,"{""type"":""MultiPoint"",""coordinates"":[]}"

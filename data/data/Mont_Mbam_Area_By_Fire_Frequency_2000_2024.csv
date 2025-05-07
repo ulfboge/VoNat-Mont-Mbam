@@ -1,0 +1,45 @@
+system:index,area_ha,description,frequency,.geo
+0,0.0,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",0.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,10456.488817224264,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",1.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,5367.398543143383,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",2.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,4045.0316968811276,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",3.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,2617.0726716911763,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",4.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,2072.561517867647,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",5.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,1748.6845620281863,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",6.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,1298.5252762990194,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",7.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+8,921.0685994117647,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",8.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+9,642.380634375,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",9.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+10,815.3189390625,"Burned ee.ComputedObject({
+  ""type"": ""ArgumentRef"",
+  ""value"": ""_MAPPING_VAR_3_0""
+}) times",10.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
