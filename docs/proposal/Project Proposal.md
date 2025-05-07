@@ -22,7 +22,7 @@ This project aims to support Voice of Nature (VoNat) in its mission to protect b
 ### 1\. Land Cover Map (Main Priority)
 
 - Land cover classification using ESA WorldCover (10m) or Copernicus Global Land Service (100m).  
-- High-resolution map tailored to the Mont Mbam area of interest (AOI).  
+- High-resolution map tailored to the Mont Mbam area of interest (AOI), as defined by [Momo Solefack et al. (2018)](https://revuecangeotrop.ca/volume-8-numero-2/8799/).  
 - Delivered in digital formats (GeoTIFF, PDF, JPEG) suitable for reports and presentations.
 
 ### 2\. Forest Loss Analysis
@@ -104,7 +104,7 @@ This project aims to support Voice of Nature (VoNat) in its mission to protect b
 ### 1\. Land Cover Map (Main Priority)
 
 - Land cover classification using ESA WorldCover (10m) or Copernicus Global Land Service (100m).  
-- High-resolution map tailored to the Mont Mbam area of interest (AOI).  
+- High-resolution map tailored to the Mont Mbam area of interest (AOI), as defined by [Momo Solefack et al. (2018)](https://revuecangeotrop.ca/volume-8-numero-2/8799/).  
 - Delivered in digital formats (GeoTIFF, PDF, JPEG) suitable for reports and presentations.
 
 ### 2\. Forest Loss Analysis
