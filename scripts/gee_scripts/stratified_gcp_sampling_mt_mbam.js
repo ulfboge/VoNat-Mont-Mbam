@@ -66,7 +66,7 @@ var samplingImage = composite.addBands(remappedLC);
 
 // Perform stratified sampling with 1000 points
 var gcp = samplingImage.stratifiedSample({
-  numPoints: 1000,
+  numPoints: 100,
   classBand: label,
   region: geometry,
   scale: 30,

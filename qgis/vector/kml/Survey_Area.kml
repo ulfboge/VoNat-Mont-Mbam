@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="survey_area" id="survey_area">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="area_ha" type="int"></SimpleField>
+</Schema>
+<Folder><name>survey_area</name>
+  <Placemark id="survey_area.1">
+	<name>Survey_Area</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#survey_area">
+		<SimpleData name="fid">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>10.6976150102465,6.00632417234488 10.7233631659674,6.01492347590021 10.7663492215642,5.99164034836092 10.7783846019633,5.96006550839375 10.7736296990039,5.91899719083326 10.7616888469963,5.88923491000694 10.765671811582,5.86954832906564 10.7494508406229,5.85629031119134 10.7115604652909,5.84251936046138 10.6881948190825,5.85474212632171 10.6787009897612,5.86836944104037 10.6661069623372,5.90833573310154 10.659561266944,5.94191859600963 10.6976150102465,6.00632417234488</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

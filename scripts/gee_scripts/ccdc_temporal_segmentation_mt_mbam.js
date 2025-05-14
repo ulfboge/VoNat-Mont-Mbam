@@ -41,7 +41,7 @@ var ccdParams = {
 var ccdResults = ee.Algorithms.TemporalSegmentation.Ccdc(ccdParams);
 print(ccdResults);
 
-var exportResults = false;
+var exportResults = true;
 if (exportResults) {
     // Create a metadata dictionary with the parameters and arguments used.
     var metadata = ccdParams;
@@ -55,6 +55,8 @@ if (exportResults) {
     // 
     Export.image.toAsset({
         image: ccdResults.set(metadata),
+        description: 'CCDC_Mt_Mbam_Results',
+        assetId: 'projects/ee-komba/assets/vonat/CCDC_Mt_Mbam_Results',
         region: studyRegion,
         pyramidingPolicy: {
             ".default": 'sample'

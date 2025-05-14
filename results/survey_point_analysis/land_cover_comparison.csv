@@ -1,0 +1,10 @@
+observed_land_cover,Bare / sparse vegetation,Built-up,Cropland,Grassland,Shrubland,Tree cover,Total
+Bare / sparse vegetation,4,2,5,51,1,6,69
+Built-up,0,7,12,7,2,1,29
+Cropland,0,0,8,2,0,1,11
+Grassland,0,1,2,23,0,0,26
+Herbaceous wetland,0,0,1,0,0,0,1
+Permanent water bodies,0,1,6,6,4,2,19
+Shrubland,1,1,0,6,1,2,11
+Tree cover,3,6,4,44,7,25,89
+Total,8,18,38,139,15,37,255
