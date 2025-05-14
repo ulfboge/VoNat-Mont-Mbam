@@ -31,7 +31,7 @@ The Mont Mbam region encompasses a diverse ecological landscape with unique geog
 
 - Hydrology
 
-**![Hydrological Network of Mont Mbam: Rivers and Streams](../../outputs/maps/Hydrological_Network.png)**  
+**![Hydrological Network of Mont Mbam: Rivers and Streams](../../outputs/maps/Waterway.png)**  
 *[File: Hydrological_Network.png]*  
 **Figure 2: Hydrological Network of Mont Mbam: Rivers and Streams**  
 *This map depicts the rivers and streams of the Mont Mbam region, highlighting three key hydrological features: (1) a prominent river system in the northeast with multiple tributaries, (2) a significant water body in the southwestern boundary, and (3) the named rivers Mfu and Mbam. The drainage pattern follows the region's topography, with waterways generally flowing from the highlands toward lower elevations. This hydrological network supports the region's ecological diversity and influences vegetation patterns, particularly in riparian zones.*
@@ -93,7 +93,7 @@ The region's ecological composition is characterized by a complex mosaic of habi
 
 See next page.
 
-**![Field Survey Points Distribution](../../outputs/charts_figures/field_survey_points_distribution.png)**  
+**![Field Survey Points Distribution](../../outputs/maps/Survey Points.png)**  
 *[File: field_survey_points_distribution.png]*  
 **Figure 3: Field Survey Points Distribution**  
 *The spatial distribution of 268 GPS points documents ecological features and land use patterns in the Mont Mbam region. The map highlights key landscape elements, including burnt areas, riparian forests, water sources, and settlements, providing a comprehensive view of current environmental conditions and human activities in the study area.*
@@ -349,7 +349,7 @@ To better understand potential drivers of land cover change in the Mont Mbam reg
 
 ##### Fire Frequency Patterns
 
-**![Fire Recurrence Patterns in Mont Mbam (2000-2024)](../../outputs/maps/Fire_Frequency.png)**  
+**![Fire Recurrence Patterns in Mont Mbam (2000-2024)](../../outputs/maps/Fire Frequency.png)**  
 *[File: Fire_Frequency.png]*  
 **Figure 12: Fire Recurrence Patterns in Mont Mbam (2000-2024)**  
 *This map depicts how frequently areas within the Mont Mbam region have burned between 2000 and 2024, based on MODIS satellite data. Green areas have never experienced fire during this period, while the color gradient from yellow to red indicates increasing burn frequency (from 1 to 5+ times). The spatial pattern reveals concentrated fire activity in the central and southern portions of the study area, with fewer burns in the northeastern section. This distribution of fire recurrence highlights areas of high fire vulnerability and helps identify potential ecological resilience zones. Understanding these patterns provides valuable context for conservation planning and sustainable land management in this diverse mountain ecosystem.*
@@ -366,7 +366,7 @@ This pattern indicates that while fire is a significant ecological factor in the
 
 ##### Most Recent Burn Year
 
-**![Fire Disturbance History of Mont Mbam (2000-2024)](../../outputs/maps/Most_Recent_Burn.png)**  
+**![Fire Disturbance History of Mont Mbam (2000-2024)](../../outputs/maps/Most Recent Fire.png)**  
 *[File: Most_Recent_Burn.png]*  
 **Figure 13: Fire Disturbance History of Mont Mbam (2000-2024)**  
 *This map shows when areas in the Mont Mbam region last experienced fire, based on MODIS satellite data from 2000-2024. Green areas have remained unburned throughout this period, while the color-coded pixels indicate the most recent year each area burned. The map reveals several notable patterns: (1) recent burns (2020-2024) are concentrated in the central portion of the study area, (2) the southern region shows a mix of burn years with some patches of recent activity, and (3) the eastern areas show more scattered and generally older burn scars. This temporal pattern of fire disturbance helps explain vegetation dynamics in the mountainous landscape and provides important context for understanding the transitions between grassland, shrubland, and tree cover observed in the land cover change analysis.*
@@ -449,7 +449,7 @@ These findings have several implications for conservation and land management in
 #### 3.3.1 Forest Cover Baseline Map
 
 See next page.  
-![Forest Cover Baseline (2000)](../../outputs/charts_figures/forest_change/fig_forest_baseline_2000.png)  
+![Forest Cover Baseline (2000)](../../outputs/maps/Forest Cover 2000.png)  
 **Figure 4: Forest Cover Baseline (2000)**   
 *Forest canopy cover distribution in the Mont Mbam region for the year 2000, derived from the Hansen Global Forest Change dataset. The map shows tree canopy closure for all vegetation taller than 5 meters in height, providing a baseline understanding of the region's forest structure. This serves as a crucial reference point for assessing subsequent forest changes and degradation patterns.*  
 ![Annual Forest Loss (2001-2023)](../../outputs/charts_figures/forest_change/fig_annual_loss_2001_2023.png)  
@@ -461,49 +461,65 @@ See next page.
 
 **Note on Data Interpretation:** The forest cover and loss data presented in these figures are derived from the Hansen Global Forest Change dataset, which uses specific definitions and methodologies for forest classification. These results should be interpreted in the context of the dataset's parameters and may differ from other forest assessments using different methodologies, such as the ESA WorldCover data used for the 2021 land cover classification.
 
-### 3.4 Biodiversity Assessment
 
-- Species distribution  
-- Habitat suitability  
-- Conservation priority areas
-
-### 3.5 Environmental Threats
-
-- Human activities  
-- Climate change impacts  
-- Conservation challenges
 
 ## 4\. Discussion
 
 ### 4.1 Key Findings
 
-- Major patterns and trends  
-- Significant observations  
-- Data limitations
+- **Landscape Stability**: The Mont Mbam region has maintained remarkable stability in land cover composition between 1987 and 2024, with 96.9% of the total area retaining the same land cover type over the 37-year period. This stability is particularly evident in the major land cover classes, including tree cover (98.59% unchanged), grasslands, and shrublands.
+
+- **Recent Land Cover Dynamics**: While the overall landscape remained stable, the 2010-2024 period showed the most significant transitions, including tree cover expansion (+154.17 ha), grassland reduction (-227.34 ha), and water body expansion (+69.12 ha). These changes were minimal in absolute terms but represent a shift from the near-complete stability observed in the 1987-2000 period.
+
+- **Declining Fire Activity**: A dramatic decrease in fire occurrence has been documented, from an average of ~9,503 hectares burned annually in 2000-2009 to only ~1,091 hectares annually in 2017-2024. This declining trend in fire disturbance coincides with the period of modest tree cover expansion.
+
+- **Fire-Land Cover Relationships**: Clear spatial correlations exist between fire occurrence and land cover dynamics, with 48% of grassland areas experiencing at least one fire event during the study period, compared to much lower percentages in forested areas. Additionally, 62% of all transitions from tree cover to grassland occurred in areas that experienced at least two fire events.
+
+- **Forest Loss Patterns**: Despite overall tree cover stability or slight increase in the CCDC analysis, the Hansen dataset identified 296 hectares of forest loss (1.5% of 2000 forest cover) between 2001-2023, with notable peaks in 2006 (26.3 ha), 2021 (20.8 ha), and 2023 (45.7 ha). This suggests that while the landscape has experienced some forest degradation, it has been offset by forest regeneration in other areas.
+
+- **Data Limitations**: Different methodologies between datasets (CCDC, Hansen Global Forest Change, and ESA WorldCover) result in varying estimates of land cover areas. For example, tree cover estimates range from 19,274 ha (Hansen, 2000) to 26,006 ha (ESA WorldCover, 2021). These differences reflect methodological variations rather than actual changes and highlight the importance of consistent methodologies when assessing land cover change.
 
 ### 4.2 Conservation Implications
 
-- Biodiversity conservation  
-- Habitat protection  
-- Sustainable management
+- **Ecosystem Resilience**: The high persistence of land cover types over 37 years indicates a relatively resilient landscape. This stability, despite some fire disturbance, suggests that the Mont Mbam ecosystems possess inherent resistance to change, which is valuable for long-term conservation planning.
+
+- **Fire Management**: The documented decline in fire occurrence over the past decade coincides with modest increases in tree cover. This relationship suggests that fire management may be an effective tool for forest conservation in the region. Areas that experienced high fire frequency in the early period (2000-2009) but remained relatively fire-free in the recent period (2017-2024) show evidence of woody vegetation recovery.
+
+- **Grassland Conservation**: The observed reduction in grassland area (-260.64 ha) and the conversion of 171.64 ha of former grassland to tree cover indicate a need for balanced conservation approaches that recognize the ecological value of both forest and grassland ecosystems. The data suggests that without fire disturbance, some grassland areas naturally transition to woody vegetation.
+
+- **Water Resource Management**: The documented expansion of water bodies (+54.81 ha, +2.21%) represents a change in the landscape's hydrological characteristics. This change, while modest, may have implications for aquatic habitats and water resource availability in the region.
+
+- **Limited Development Pressure**: The minimal change in built-up areas (-2.07 ha, -0.10%) indicates limited urban expansion or infrastructure development, suggesting that direct human settlement pressure is not currently a major driver of landscape change in the Mont Mbam region.
 
 ### 4.3 Recommendations
 
-- Conservation strategies  
-- Management actions  
-- Future monitoring needs
+- **Balanced Ecosystem Management**: Given the observed dynamics between forest and grassland ecosystems, conservation strategies should aim to maintain a balance between these habitat types rather than focusing exclusively on forest protection. The data indicates natural transitions between these ecosystems, suggesting both have ecological roles in the landscape.
+
+- **Fire Management Planning**: The clear relationship between fire occurrence and land cover dynamics suggests that strategic fire management could be an effective conservation tool. Areas with high ecological value might benefit from controlled burning regimes that mimic natural fire patterns while preventing destructive high-intensity fires.
+
+- **Monitoring Recent Forest Loss**: The acceleration of forest loss in recent years (particularly the 45.7 ha lost in 2023, as shown in the Hansen dataset) warrants close monitoring to determine if this represents a new trend or an anomaly. Focusing monitoring efforts on areas that experienced recent forest loss could help identify emerging threats.
+
+- **Hydrological Monitoring**: The documented expansion of water bodies merits continued monitoring to understand the drivers and ecological implications of these changes. This could include tracking seasonal variations in water extent and quality.
+
+- **Consistent Methodology**: Future land cover assessments should maintain methodological consistency with this baseline study to ensure accurate change detection. When using multiple datasets, the methodological differences should be explicitly acknowledged and accounted for in analyses.
 
 ## 5\. Conclusions
 
 ### 5.1 Summary of Findings
 
-- Key results  
-- Project achievements  
-- Knowledge gaps
+- **Key Results**: The Mont Mbam region has maintained remarkable landscape stability between 1987 and 2024, with 96.9% of the area retaining the same land cover type. The most significant changes occurred in the 2010-2024 period, including modest tree cover expansion (+196.47 ha), grassland reduction (-260.64 ha), and water body expansion (+54.81 ha). These changes coincided with a dramatic decline in fire occurrence, from an average of ~9,503 hectares burned annually in 2000-2009 to only ~1,091 hectares annually in 2017-2024. Despite the overall stability, the Hansen dataset identified 296 hectares of forest loss between 2001-2023, with the highest loss recorded in 2023 (45.7 ha).
+
+- **Project Achievements**: This study has successfully established a comprehensive baseline of land cover dynamics in the Mont Mbam region using multiple datasets and analytical approaches. The integration of CCDC analysis, Hansen Global Forest Change data, and ESA WorldCover has provided complementary perspectives on landscape change. Additionally, the fire disturbance analysis has revealed important temporal trends and spatial patterns that help explain some of the observed land cover dynamics. The field survey with 268 GPS points has documented current ecological features and land use patterns, providing ground-based context for the remote sensing analyses.
+
+- **Knowledge Gaps**: Several aspects of the Mont Mbam landscape dynamics remain incompletely understood. These include: (1) the specific drivers behind the dramatic decline in fire occurrence over the past decade; (2) the ecological implications of the modest but consistent expansion of water bodies; (3) the causes of the apparent acceleration in forest loss in 2023; and (4) the relationship between land cover changes and specific human activities or management interventions in the region.
 
 ### 5.2 Future Directions
 
-- Additional research needs  
+- Additional research needs, including:
+  - Biodiversity assessment (species distribution, habitat suitability, conservation priority areas)
+  - Environmental threats analysis (human activities, climate change impacts, conservation challenges)
+  - **Spatial Pattern Analysis**: Detailed comparison of fire concentration patterns in central and southern portions of the study area with land cover change patterns to identify spatial correlations and potential causal relationships. This analysis should include overlay mapping of fire frequency with land cover transitions to identify hotspots of ecological change.
+  - **Transition Analysis**: Further investigation of the relationship between land cover transitions (particularly the high persistence of tree cover where 20,279 ha remained tree cover, and notable transitions such as 171.64 ha from grassland to tree cover) and fire disturbance patterns. This analysis should examine whether areas with reduced fire frequency show predictable patterns of vegetation succession.
 - Monitoring recommendations  
 - Conservation priorities
 

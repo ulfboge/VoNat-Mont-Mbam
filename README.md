@@ -43,7 +43,9 @@ VoNat-Mont-Mbam/
 ## Data Sources
 
 - **Field Data**: GPS points collected during field surveys (268 points)
-- **Study Area**: Defined boundaries derived from [Momo Solefack et al., 2018](https://revuecangeotrop.ca/volume-8-numero-2/8799/)
+- **Study Area**: 
+  - Main study area: Defined boundaries derived from [Momo Solefack et al., 2018](https://revuecangeotrop.ca/volume-8-numero-2/8799/)
+  - Survey area: Focused subset (18,054 hectares) encompassing field survey locations and northeastern highlands
 - **Remote Sensing Data**:
   - Landsat imagery (1987-2024) for land cover classification using CCDC
   - MODIS MCD64A1 Burned Area product (2000-2024) for fire analysis
@@ -84,6 +86,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Land Cover Analysis
 - Land cover classification for 1987, 2000, 2010, and 2024 using CCDC
+- Survey-calibrated CCDC classification using 268 field survey points for improved local accuracy
+- Focused analysis of the central survey area (18,054 hectares)
 - Transition analysis between time periods
 - Comparison with ESA WorldCover and Hansen Global Forest Change datasets
 
