@@ -1,0 +1,51 @@
+name: Convert Reports to PDF and Word
+
+on:
+  push:
+    branches: [ main, update-documentation ]
+    paths:
+      - 'docs/reports/Central_Area_CCDC_Report.md'
+      - 'docs/reports/Land_Cover_Change_Analysis_Report.md'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+          
+      - name: Convert Central Area Report to PDF
+        run: |
+          md-to-pdf docs/reports/Central_Area_CCDC_Report.md
+          
+      - name: Convert Central Area Report to Word
+        run: |
+          pandoc docs/reports/Central_Area_CCDC_Report.md -o docs/reports/Central_Area_CCDC_Report.docx
+          
+      - name: Convert Land Cover Change Report to PDF
+        run: |
+          md-to-pdf docs/reports/Land_Cover_Change_Analysis_Report.md
+          
+      - name: Convert Land Cover Change Report to Word
+        run: |
+          pandoc docs/reports/Land_Cover_Change_Analysis_Report.md -o docs/reports/Land_Cover_Change_Analysis_Report.docx
+          
+      - name: Upload PDF and Word files as artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: report-documents
+          path: |
+            docs/reports/*.pdf
+            docs/reports/*.docx

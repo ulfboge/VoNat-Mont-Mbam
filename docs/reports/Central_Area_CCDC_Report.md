@@ -1,5 +1,7 @@
 # Mont Mbam Central Area Land Cover Analysis
 
+[![Convert to PDF](https://img.shields.io/badge/Convert_to-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://www.markdowntopdf.com/) [![Convert to Word](https://img.shields.io/badge/Convert_to-Word-blue?style=for-the-badge&logo=microsoft-word)](https://word2md.com/)
+
 **Final Report**
 
 *June 2025*
