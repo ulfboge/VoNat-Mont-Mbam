@@ -4,53 +4,63 @@ A comprehensive geospatial analysis project focused on the Mont Mbam region, uti
 
 ## Project Overview
 
-This repository contains geospatial data, analysis tools, and documentation for the VoNat-Mont-Mbam project. The project aims to analyze and visualize environmental data in the Mont Mbam region, with a focus on land cover changes, fire disturbance patterns, and physical characteristics. The analysis combines remote sensing data from multiple sources with field observations to provide a comprehensive understanding of landscape dynamics in this ecologically important area.
+This repository contains geospatial data, analysis tools, and documentation for the VoNat-Mont-Mbam project. The project aims to analyze and visualize environmental data in the Mont Mbam region, with a focus on land cover changes, fire disturbance patterns, and forest loss dynamics. The analysis combines remote sensing data from multiple sources with field observations to provide a comprehensive understanding of landscape dynamics in this ecologically important area.
+
+## Main Outputs
+
+The primary output of this project is the **Central Area CCDC Land Cover Analysis Report** (`docs/reports/Central_Area_CCDC_Report.md`), which provides a detailed analysis of:
+
+1. Land cover composition and changes from 1987 to 2024
+2. Forest loss patterns based on Hansen Global Forest Change data (2001-2024)
+3. Fire disturbance trends using MODIS burned area data (2000-2024)
+4. Survey-calibrated land cover classification for 2024
 
 ## Repository Structure
 
 ```
 VoNat-Mont-Mbam/
-├── data/                    # Data directory
+├── archive/                # Archived files not relevant to the latest analysis
+├── data/                   # Data directory
 │   ├── raw/                # Raw data files
 │   │   └── gps_points/     # GPS point data
 │   └── data/               # Processed data files and analysis outputs (CSV)
-├── docs/                    # Documentation
-│   ├── proposal/           # Project proposal documents
-│   └── reports/            # Report outlines and final documents
-├── metadata/               # Metadata documentation
+│       └── suvey_area/     # Central survey area data files
+├── docs/                   # Documentation
+│   ├── figures/            # Figures used in the reports
+│   ├── reports/            # Final reports
+│   │   ├── Central_Area_CCDC_Report.md  # Main project report
+│   │   └── Land_Cover_Change_Analysis_Report.md  # Supporting analysis
+│   └── references/         # Reference materials
 ├── outputs/                # Analysis outputs
-│   ├── charts_figures/     # Charts and figures for reports
-│   │   ├── current_land_cover/  # Land cover visualizations
-│   │   ├── fire_analysis/       # Fire analysis visualizations
-│   │   └── land_cover_analysis/ # Land cover change analysis
-│   └── maps/               # Map outputs from GEE and QGIS
+│   ├── local_training_analysis/  # Training data analysis outputs
+│   ├── maps/               # Map outputs from GEE and QGIS
+│   └── presentations/      # Presentation materials
 ├── qgis/                   # QGIS project files
-│   ├── project/           # QGIS project files
-│   ├── style/             # QGIS style files
-│   └── vector/            # Vector data
-│       ├── geopackage/   # Geopackage files
-│       └── kml/          # KML files
 ├── scripts/                # Analysis scripts
-│   ├── analysis/          # Python analysis scripts
-│   ├── gee_scripts/       # Google Earth Engine JavaScript scripts
-│   └── python_scripts/    # Python scripts for data processing
-├── CHANGELOG.md           # Record of changes and additions
-├── CONTRIBUTING.md        # Contribution guidelines
-├── LICENSE                # MIT License
-└── README.md             # This file
+│   ├── gee_scripts/        # Google Earth Engine JavaScript scripts
+│   │   ├── ccdc_classification_with_accuracy.js  # CCDC classification script
+│   │   ├── fire_frequency_analysis.js  # Fire analysis script
+│   │   ├── landcover_change_transition_1987_2024.js  # Land cover transition analysis
+│   │   └── vonat_landcover_forestloss_analysis.js  # Forest loss analysis
+│   └── python_scripts/     # Python scripts for data processing
+│       ├── create_burned_area_graph.py  # Fire analysis visualization
+│       ├── process_hansen_data.py  # Forest loss data processing
+│       └── small_area_analysis.py  # Central area analysis
+├── LICENSE                 # MIT License
+└── README.md              # This file
 ```
 
 ## Data Sources
 
-- **Field Data**: GPS points collected during field surveys (268 points)
-- **Study Area**: Defined boundaries derived from [Momo Solefack et al., 2018](https://revuecangeotrop.ca/volume-8-numero-2/8799/)
+- **Field Data**: GPS points collected during field surveys (287 points) used for classification training and validation
+- **Study Area**: 
+  - Main study area: Defined boundaries derived from [Momo Solefack et al., 2018](https://revuecangeotrop.ca/volume-8-numero-2/8799/)
+  - Central survey area: Focused subset (18,054 hectares) encompassing field survey locations
 - **Remote Sensing Data**:
-  - Landsat imagery (1987-2024) for land cover classification using CCDC
-  - MODIS MCD64A1 Burned Area product (2000-2024) for fire analysis
-  - ESA WorldCover (2021) for current land cover classification
-  - Hansen Global Forest Change dataset (2000-2023) for forest cover and loss
-- **Elevation Data**: SRTM Digital Elevation Model
-- **Hydrological Data**: HydroSHEDS and HydroRIVERS datasets
+  - Landsat Collection 2 Surface Reflectance imagery (1987-2024) for land cover classification using CCDC
+  - Hansen Global Forest Change dataset (2001-2024) for forest loss analysis
+  - MODIS MCD64A1 Burned Area product (2000-2024) for fire disturbance analysis
+  - ESA WorldCover (2021) for reference land cover classification
 
 ## Getting Started
 
@@ -59,22 +69,23 @@ VoNat-Mont-Mbam/
    git clone https://github.com/ulfboge/VoNat-Mont-Mbam.git
    ```
 
-2. Open the QGIS project:
-   - Navigate to `qgis/project/`
-   - Open `VoNat.qgz` in QGIS
-
-3. Explore the Google Earth Engine scripts:
+2. Explore the Google Earth Engine scripts:
    - Navigate to `scripts/gee_scripts/`
-   - Scripts can be run in the Google Earth Engine Code Editor
+   - Key scripts include:
+     - `ccdc_classification_with_accuracy.js` - CCDC classification with field survey calibration
+     - `fire_frequency_analysis.js` - Fire frequency and yearly burned area analysis
+     - `landcover_change_transition_1987_2024.js` - Land cover transition analysis
 
-4. Run Python analysis scripts:
-   - Navigate to `scripts/analysis/`
-   - Install required dependencies: `pandas`, `matplotlib`, `seaborn`, `numpy`
-   - Run scripts using Python 3.x
+3. Run Python analysis scripts:
+   - Navigate to `scripts/python_scripts/`
+   - Install required dependencies: `pandas`, `matplotlib`, `numpy`
+   - Key scripts include:
+     - `process_hansen_data.py` - Forest loss data processing and visualization
+     - `create_burned_area_graph.py` - Fire analysis visualization
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+4. View the reports:
+   - The main report is located at `docs/reports/Central_Area_CCDC_Report.md`
+   - All figures referenced in the report are in the `docs/figures/` directory
 
 ## License
 
@@ -84,18 +95,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Land Cover Analysis
 - Land cover classification for 1987, 2000, 2010, and 2024 using CCDC
-- Transition analysis between time periods
-- Comparison with ESA WorldCover and Hansen Global Forest Change datasets
+- Survey-calibrated CCDC classification using 287 field survey points for improved local accuracy
+- Focused analysis of the central survey area (18,054 hectares)
+- Transition analysis between time periods (1987-2024)
+
+### Forest Loss Analysis
+- Analysis of Hansen Global Forest Change data (2001-2024)
+- Annual and cumulative forest loss quantification
+- Identification of acceleration in forest loss in recent years
 
 ### Fire Disturbance Analysis
-- Fire frequency mapping (2000-2024)
-- Most recent burn year analysis
-- Temporal trends in burned area
-- Relationship between fire patterns and land cover changes
+- Analysis of MODIS MCD64A1 burned area data (2000-2024)
+- Fire frequency mapping (number of times each area has burned)
+- Annual burned area trends showing declining fire activity
+- Spatial patterns of fire disturbance
 
-### Physical Characteristics
-- Elevation analysis
-- Hydrological network mapping
+
 
 ## Contact
 

@@ -1,0 +1,5598 @@
+{
+  "type": "FeatureCollection",
+  "name": "field_survey_points_for_gee",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 100. Bush Burning",
+        "description": "Burnt up for grazing",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701682,
+          5.869409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 101. Burnt/Degraded Area",
+        "description": "Vast areas completely burnt for grazing. Void of trees, not even one",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702155,
+          5.869529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 102. Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.703315,
+          5.868296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 103.  Burnt Area",
+        "description": "Vast area of over 10 hectares void of any trees",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704236,
+          5.86813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 104. Three Monkeys",
+        "description": "We saw three monkeys running into the riparian Forest",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704518,
+          5.869324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 6,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 105.  Burnt Area for Grazing",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702507,
+          5.872967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 7,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 106. Thick Riparian Forest",
+        "description": "Forest with tall trees, water source etc.",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702058,
+          5.873021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 8,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 107. River",
+        "description": "A drinking water source for herder Community",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701697,
+          5.873333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 9,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 108. Herder Settlement",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702993,
+          5.873726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 10,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 109. Grassland",
+        "description": "Smaller trees. Good for Restoration",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.706992,
+          5.874415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 110.  Bush fire",
+        "description": "Burnt for grazing",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70785,
+          5.874874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 111.  Degraded Area",
+        "description": "Void of any trees",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708355,
+          5.875136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 13,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 112. Rocky and Stony Area",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.710328,
+          5.878036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 14,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 113. Bareland with few trees",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.712941,
+          5.87961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 15,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 114. Fenced Area",
+        "description": "Fence by herders to prevent intrusion into the Mountain ⛰",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713224,
+          5.879915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 16,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 115.  Natural Regenerating Area",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713564,
+          5.879718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 17,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 116. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.714971,
+          5.879447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 18,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 117.  Huge rock Deposit",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7156,
+          5.879304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 19,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 118.  Bareland Area",
+        "description": null,
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.716325,
+          5.879722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 20,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 119. Bareland area",
+        "description": "Traces of cattle presence",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.717726,
+          5.880337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 21,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 120. Grassland",
+        "description": "Void of any trees",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.718017,
+          5.880874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 22,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 121. Scrubland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.715132,
+          5.883065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 23,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 122. Natural Regeneration",
+        "description": "Small trees growing at close range",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.714639,
+          5.883034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 24,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 123.  Access Road",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713905,
+          5.883694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 25,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 124. Riparian Forest with a small river",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713739,
+          5.884721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 27,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 126. Bush burning",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.712027,
+          5.886429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 28,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 127.  Thick Riparian Forest with deep gully",
+        "description": "Has tall and large trees with a large deep gully",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.711858,
+          5.886527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 29,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 128. Natural Regeneration",
+        "description": "New Growth",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.711127,
+          5.887145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 30,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 129.  Flowing Stream",
+        "description": "Large stream with small fish species",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.710656,
+          5.887422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 31,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 130. Burnt Area, Bare",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.710012,
+          5.887418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 32,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 131. Njankieh River",
+        "description": "Few trees around but adjacent areas are burnt and depleted",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70833,
+          5.88741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 33,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 132. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.707867,
+          5.887348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 34,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 133.  Flowing stream",
+        "description": "Creepy trees around",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.706918,
+          5.887398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 35,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 134. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704046,
+          5.888911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 36,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 135. Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702955,
+          5.889199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 37,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 136. Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701517,
+          5.890464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 38,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 137.  Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701223,
+          5.891114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 39,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 138.  Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699884,
+          5.891287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 40,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 139.  Riparian Forest",
+        "description": "Chankieh River with tree and birds",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.69836,
+          5.891367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 41,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 140. Bush fire",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.696816,
+          5.891939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 42,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 141. Vast farmland/Wetland",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.684776,
+          5.889239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 43,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 142.  Thick forest",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756309,
+          5.866427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 44,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 143.  Farmlands",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.758353,
+          5.868494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 45,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 144 . Koumbam",
+        "description": "The Chief's Palace",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.762278,
+          5.875255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 46,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 145. Koumbam Sanyere",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756178,
+          5.889867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 47,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 146. Herder Community",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756484,
+          5.896934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 48,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 147.  Herder Settlement",
+        "description": null,
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.753881,
+          5.899965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 49,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 148. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.753801,
+          5.900892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 50,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 149.  Natural Regeneration",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.752968,
+          5.902612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 51,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 150.  Direct Sight of 4 monkeys",
+        "description": "A group of several monkeys seeing running through the forest",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.751204,
+          5.906209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 52,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 151.  Thick Riparian Forest",
+        "description": "Sound of many birds heard",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.750533,
+          5.907367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 53,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 152.  Ra'angeh River",
+        "description": "For bathing, drinking etc",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.750096,
+          5.908381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 54,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 153. Thick Forest",
+        "description": "S",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74953,
+          5.910664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 55,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 154. Bumeh",
+        "description": "Uses for the treatment of philaria",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749076,
+          5.911199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 56,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 155. Bitter Stick",
+        "description": "Used for treatment of stomach broblems and pile",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749058,
+          5.911361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 57,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 156. Medicinal Plant: Bakureg",
+        "description": "Used for the treatment of cholera",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.748088,
+          5.912614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 58,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 157.  Sugar Stick: Medicinal Plant",
+        "description": "Used to treat erectile dysfunction",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74759,
+          5.912991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 59,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 158.  Mahogany Trees",
+        "description": "Several Mahogany Species distrusted here",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.747561,
+          5.913374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 60,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 159. Medicinal Plant: Perkih",
+        "description": "Used for the treatment of Diarrhea and menstrual challenges",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.747088,
+          5.914685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 61,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 160.  Bush Fire",
+        "description": "Burnt area for grazing",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745935,
+          5.916021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 62,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 161. Club Trees",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.744219,
+          5.917194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 63,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 162. Dropping of Bush Dogs",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743718,
+          5.91781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 64,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 163. Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.742834,
+          5.918182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 65,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 164.  Huge rock deposit",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741784,
+          5.918529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 66,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 165.  Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741143,
+          5.919116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 67,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 166. Grassland Area",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739898,
+          5.92457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 68,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 167.  Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739784,
+          5.92596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 69,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 168.  Settlement",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739678,
+          5.927508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 71,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 170. Huge rock",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73997,
+          5.931124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 72,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 171. Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.740061,
+          5.931477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 73,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 172.  Abandoned Settlement",
+        "description": "Resident displaced due to intrusion by Ambazonia forces from North West Cameroon",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7377,
+          5.936104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 74,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 173.  Bush burning",
+        "description": "Close to riparian Forest",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739476,
+          5.939443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 75,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 174.  Riparian Forest",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73951,
+          5.940319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 76,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 175.  Shrub Land",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739236,
+          5.941429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 77,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 176. Colonized Beehives",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739171,
+          5.942537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 78,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 177. Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738904,
+          5.944374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 79,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 178.  Bush burning",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738941,
+          5.945798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 80,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 179.  Bush burning",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738717,
+          5.94697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 81,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 180.  Medicinal Plant",
+        "description": "Used for menstrual challenges",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739111,
+          5.947415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 82,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 181. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739307,
+          5.948323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 83,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 182. Large trees",
+        "description": "Amidst bush burning",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739959,
+          5.94874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 84,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 183. Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.739992,
+          5.949092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 85,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 184. Shrubs",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741177,
+          5.94957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 86,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 185. Grassland",
+        "description": "Surrounded by patches of riparian forests. Grassland planted in the 1980s by herders, with seeds from Westerners",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741713,
+          5.949877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 87,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 187.  Direct Sight of Rabbit",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74247,
+          5.948395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 88,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 188.  Huge rock deposit",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743889,
+          5.945645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 89,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 189.  Huge rock deposit",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.744617,
+          5.944445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 90,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 190. Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.746305,
+          5.942346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 91,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 191.  Sparsed Forest",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.747685,
+          5.937732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 92,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 192. Shrubs",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749548,
+          5.934126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 93,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 193. Bush burning",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.750504,
+          5.932602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 94,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 194.  Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75397,
+          5.928025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 95,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 195.  Grassland",
+        "description": "Artificial",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.755258,
+          5.92709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 96,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 196.  Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756692,
+          5.924859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 97,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 197.  Bareland with few shrubs",
+        "description": null,
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756439,
+          5.920613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 98,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 198. Herder Community",
+        "description": "Koumbam Sanyere 2",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.758262,
+          5.916856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 99,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 200. Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.757392,
+          5.914378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 100,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 201.  Burnt and Deforested",
+        "description": "Good for Restoration actions",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.757045,
+          5.913334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 101,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 202.  Bantai: Medicinal plant",
+        "description": "Used for Typhoid",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.755022,
+          5.906273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 102,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 203. Large gully",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.747419,
+          5.861911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 103,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 204. Chiankeh River",
+        "description": "Used for car washing, cleaning, fishing and irrigation",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.679682,
+          5.870676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 104,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 205.  Nsam River",
+        "description": "Used for traditional cleansing, domestic purposes and irrigation",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.680478,
+          5.870425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 105,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 206. Riparian Forest",
+        "description": null,
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687225,
+          5.869908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 106,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 207.  Movuishi Sacred River",
+        "description": "The traditional ruler is washed there for power during enthronement",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687183,
+          5.870102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 107,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 208.  Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.750851,
+          5.903636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 108,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 209. Huge rock deposit",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75002,
+          5.904064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 109,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 210.   Stony Area",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.748268,
+          5.903905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 110,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 211. Shrub Trees",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.747566,
+          5.902866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 111,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 212. Bush burning 🔥",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745417,
+          5.904663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 112,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 213. Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.744509,
+          5.904561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 113,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 214.  Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.740092,
+          5.907002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 114,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 215.  Riparian Forest",
+        "description": "Flowing stream with very low pressure",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738855,
+          5.909361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 115,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 216.  Grassland",
+        "description": "Introduced in the 1980s",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738106,
+          5.910979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 116,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 217. Demolished Structure",
+        "description": "Herders relocated due to security concerns by separatist fighters from North West Cameroon",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738125,
+          5.911734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 117,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 218.  Riparian Forest",
+        "description": "With birds, river and taller trees",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738336,
+          5.913713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 118,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 219. Riparian Forest",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.736449,
+          5.913107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 119,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 220.  Bush burning 🔥",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.736357,
+          5.913074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 120,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 221.  Grassland",
+        "description": "Grass species donated to herders in the 1980s",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.734601,
+          5.911733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 121,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 222. Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.733268,
+          5.910382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 122,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 223.  Abandoned Herder Community",
+        "description": "Herders left due to security concerns posed by separatist fighters",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.732677,
+          5.909434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 123,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 224.  Thick Riparian Forest",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.731998,
+          5.905522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 124,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 225.  Bush burning",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.731867,
+          5.904569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 125,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 226. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.732125,
+          5.90388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 126,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 227. Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.733324,
+          5.905251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 127,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 228.  Grassland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.733495,
+          5.905334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 128,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 229.  Shrub trees",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.734652,
+          5.90697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 129,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 23 Bush burning",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673445,
+          5.954921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 130,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 230. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.736891,
+          5.906059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 131,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 231.  Flowing Stream",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.737253,
+          5.905554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 132,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 232.  Shrubland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738632,
+          5.902006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 133,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 233. Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738601,
+          5.90147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 134,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 234.  Riparian Forest",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738263,
+          5.901251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 135,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 235.  Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738632,
+          5.900014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 136,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 236.  Riparian Forest",
+        "description": "With a river and medicinal trees",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738616,
+          5.899012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 137,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 237. Deforestation Activities",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73892,
+          5.89861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 138,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 238.  Riparian Forest",
+        "description": null,
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.740558,
+          5.895333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 139,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 239. Maiyoh River",
+        "description": null,
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741356,
+          5.893565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 140,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 24 Ntenyet river",
+        "description": "Used for drinking, laundry, drinking by cattle. Used to wash and heal those with spiritual problems",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673633,
+          5.954874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 141,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 240. Herder Community Settlement",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.742788,
+          5.893445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 142,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 241.  Bush burning 🔥",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743285,
+          5.892487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 143,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 242.  Eucalyptus Plantation",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.744561,
+          5.891581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 144,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 243.  River Maiyoh",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.744801,
+          5.891527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 145,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 244. Shrub Trees",
+        "description": null,
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.750488,
+          5.889838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 146,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 245. Government Primary School",
+        "description": "Koumbam Sanyere",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75568,
+          5.890761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 147,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 246. Bush burning",
+        "description": "Farmland",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698908,
+          5.851398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 148,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 247. Shrubland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698356,
+          5.85213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 149,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 248. Small river",
+        "description": "Polluted",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698422,
+          5.852219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 150,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 249.  Herder Settlement",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698575,
+          5.852871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 151,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 25 Farmland",
+        "description": "Used for cultivation of maize, bean, cassava, potatoes and okra",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673837,
+          5.954868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 152,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 250.  Riparian Forest",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698622,
+          5.853396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 153,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 251. Flowing river",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698594,
+          5.853853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 154,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 252. Grazing land",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698699,
+          5.855503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 155,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 253. Grassland",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699758,
+          5.856643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 156,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 254. Riparian Forest",
+        "description": "With flowing stream and birds",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699627,
+          5.85923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 157,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 255. Shrubland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699429,
+          5.859851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 158,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 256.  Bush fire",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699184,
+          5.861257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 159,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 257. Riparian Forest",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6994,
+          5.861379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 160,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 258. Grazing land",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701298,
+          5.860876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 161,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 259. Riparian Forest",
+        "description": "Will little flowing stream",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.703025,
+          5.861892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 162,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 26 Glazier settlement",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.675065,
+          5.955063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 163,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 260.  Grazing land",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.703605,
+          5.862147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 164,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 261.  Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704859,
+          5.862974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 165,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 262.  Shrubland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.705716,
+          5.862537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 166,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 263.  Bush burning",
+        "description": "Rocky and stony",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70741,
+          5.865924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 167,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 264. Riparian Forest",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708261,
+          5.86727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 168,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 265.  Riparian Forest",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708419,
+          5.86783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 169,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 266. Bush Burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708881,
+          5.868194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 170,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 267.  Bush burning",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708201,
+          5.847164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 171,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 268.  Herder Settlement",
+        "description": "Mapetiehn",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.714422,
+          5.865212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 172,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 269. Riparian Forest",
+        "description": "With river used for laundry and drinking",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.716611,
+          5.863969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 173,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 27 Tick forest",
+        "description": "Has many birds, plants, standing water  and perhaps animals",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.675571,
+          5.955675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 174,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 270. Shrubland",
+        "description": null,
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.717517,
+          5.864298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 175,
+        "landcover": 2,
+        "year": 2024,
+        "class_name": "Shrubland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 271.  Shrubland",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.719795,
+          5.862997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 176,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 272. Settlement; Herder Community",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.719213,
+          5.861263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 177,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 273.  Bush burning",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71938,
+          5.860016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 178,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 274. Grassland",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.720188,
+          5.855605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 179,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 275.  Maki Village",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.719594,
+          5.849377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 180,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 28 Riparian Forest & pond",
+        "description": "Pond provides water for cows and laundry. Many bird nests. A great area for bird watching",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676645,
+          5.954174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 181,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 29.  Herding community",
+        "description": "Many herders camp here. Lots of house flies",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.678335,
+          5.95304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 182,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 30  Cattle Settlement",
+        "description": "Locals come here to buy cow dripings to boost soil fertility",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.679797,
+          5.952416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 183,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 31. Deforestation for fuel wood",
+        "description": "New trees cut down and allowed to dry for fuel wood",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68211,
+          5.952465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 184,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 32 Riparian Forest and flowing stream",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.682321,
+          5.952382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 185,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 33. Tanyien Waterfall",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683595,
+          5.952136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 186,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 34. Huge rock deposit",
+        "description": null,
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.684092,
+          5.952064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 187,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 35: Riparian Forest",
+        "description": "Has streams used by herders for laundry and cows for drinking. Rockodeh Choupah Sanyere River",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687095,
+          5.951594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 188,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 36 Bush burning for grazing",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.688736,
+          5.951874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 189,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 37 Built up area",
+        "description": "Herders settlement",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68899,
+          5.951993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 190,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 38: choupah Sanyere Community",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.688998,
+          5.951999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 191,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 40 Bume Tree",
+        "description": "Medicinal Tree used to treat cows when sick. Also used as food by herders",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689311,
+          5.951135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 192,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 41 Mahogany",
+        "description": "Used as a medicinal tree for yellow fever and skin diseases",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689222,
+          5.951175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 193,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 42 Bush burning",
+        "description": null,
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683727,
+          5.947071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 194,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 43 Mahogany",
+        "description": "Harvested for medicinal purposes",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.682373,
+          5.945467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 195,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 44 Farmland",
+        "description": "Bush burning for farming",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.681784,
+          5.944574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 196,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 45 Herders Settlement",
+        "description": "Herders live here with their cows",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.679378,
+          5.94007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 197,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 46 Settlement",
+        "description": "Herder Community",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677124,
+          5.934051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 198,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 48 Choupah Sanyere 2",
+        "description": "Second community of herders. Need Agroforestry trees for cattles. Bush burning very common",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676784,
+          5.93411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 199,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 50 Farmland",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.671784,
+          5.935332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 200,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 51 River Shupeign",
+        "description": "A wetland area used for laundry, fishing, drinking and irrigation",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.664788,
+          5.936249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 201,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 52. Agricultural lands",
+        "description": "Vast farmlands. Good for aground and Regenerative Agriculture Practices",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.667036,
+          5.911795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 202,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 53 Burnt Agricultural Lands",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673237,
+          5.911859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 203,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 54. Ngbessun River",
+        "description": "It has fishes but also used for drinking by both humans and cattles and for irrigation",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673566,
+          5.912147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 204,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 55 Thick Forest",
+        "description": "It's within the wetland with many birds, trees, understories, bamboos etc.",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.674989,
+          5.912526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 205,
+        "landcover": 9,
+        "year": 2024,
+        "class_name": "Herbaceous wetland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 56 Wetland",
+        "description": "Vegetable gardening practiced",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.675889,
+          5.913914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 206,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 58 Rice farming",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676606,
+          5.914412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 207,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 59 Burnt Agriculture lands",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677272,
+          5.914946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 208,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 60 conflict zone",
+        "description": "Farmers and herders clash over landuse",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677353,
+          5.914948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 209,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 61 Boundary Line",
+        "description": "This is the boundary between Herder Community and Menkiefou Community",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.680622,
+          5.915275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 210,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 62 Njienteuh Sanyere Community",
+        "description": "Herders Settlement",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68436,
+          5.915853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 211,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 63 Agricultural lands",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.684534,
+          5.916302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 212,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 64 Wildlife",
+        "description": "A small running on palm trees",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.685277,
+          5.916781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 213,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 65 Ndiaah River",
+        "description": "Dried off, polluted and depleted but still used for laundry and cattle",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.685335,
+          5.916914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 214,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 66Dried off stream",
+        "description": "A gully with bridges but no water cos of climate change and seasonal variation",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687073,
+          5.917885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 215,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 67. Herder Settlement",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687249,
+          5.919015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 216,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 68. Mayoh River",
+        "description": "For drinking buy herders and cows 🐄",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689406,
+          5.921761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 217,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 69.  Rocky and stony area",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.690572,
+          5.9196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 218,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 70. Riparian Forest",
+        "description": "Really dry. Maybe climate change or because it's dry season",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.692116,
+          5.917868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 219,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 71 Bare land",
+        "description": "No trees, grass etc. Told it's passage for cows",
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.696735,
+          5.916543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 220,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 72. Grass land",
+        "description": "Used for grazing in the wet season",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.697415,
+          5.916791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 221,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 73. Riparian Forest",
+        "description": "Thick, with bigger and taller trees. Has water.  Ngorde de Liande river",
+        "LC2024_1": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699389,
+          5.917338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 222,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 74. Forested area",
+        "description": "Tall trees but deforestation is noticed",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699876,
+          5.917571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 223,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 75.  Huge Rock Deposit",
+        "description": null,
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.700114,
+          5.917426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 224,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 76. Highly Degraded Area",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701314,
+          5.916674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 225,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 77.  Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701496,
+          5.916792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 226,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 78. Bare land",
+        "description": "Degraded with short trees nearby",
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.696174,
+          5.915902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 227,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 79. Bare land",
+        "description": "Degraded area",
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.69631,
+          5.914985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 228,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 80. Bees at Honey Site",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.696781,
+          5.913702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 229,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 81. Bare land",
+        "description": "Degraded area",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.696284,
+          5.912506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 230,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 82. Riparian Forest",
+        "description": "Stream dried off",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.693972,
+          5.911965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 231,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 83. Bush fire",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6936,
+          5.911809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 232,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 84. Flowing Stream",
+        "description": "Used for laundry, drinking. Polluted!",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.693687,
+          5.911771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 233,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 85. Kipaoh Stream",
+        "description": "A riparian Forest with flowing stream used for domestic purposes",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.692607,
+          5.912556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 234,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 86.  Sanyere Mbororo",
+        "description": "Settlement for Herders",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687742,
+          5.913979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 235,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 87.  Bobiloyi",
+        "description": "Medicinal plant for treatment of fever",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687629,
+          5.913874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 236,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 88. Riparian Forest",
+        "description": "Stream has dried off",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687258,
+          5.912452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 237,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 89 Medicinal Plant",
+        "description": "Called piend and used for stomach problems",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689517,
+          5.865886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 238,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 90.  Herders Settlement",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689801,
+          5.86586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 239,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 91.  Degraded Area",
+        "description": "Lesser trees, more grassland",
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691815,
+          5.866859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 240,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 92. Bareland",
+        "description": null,
+        "LC2024_1": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.692629,
+          5.867485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 241,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 93. Grazing area",
+        "description": "Burnt for grazing",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.693519,
+          5.867431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 242,
+        "landcover": 4,
+        "year": 2024,
+        "class_name": "Cropland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 94.  Herder's House",
+        "description": null,
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.695483,
+          5.867192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 243,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 95.  Bareland",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.697536,
+          5.867689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 244,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 96. Limited grazing area",
+        "description": "Considered Risky for the Cows 🐄",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698324,
+          5.867783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 245,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 97 Bush burning",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698903,
+          5.867861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 246,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 98. Degraded Area",
+        "description": "Sparsed trees",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.70034,
+          5.867871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 247,
+        "landcover": 3,
+        "year": 2024,
+        "class_name": "Grassland",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "# 99. Bareland",
+        "description": "A grazing area",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701219,
+          5.868561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 248,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bare land",
+        "description": "At the foot of the mountain with no pasture or tree",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.688895,
+          5.986267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 249,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bare land",
+        "description": null,
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691401,
+          5.981875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 250,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bare rock",
+        "description": "Huge deposit",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691673,
+          5.977967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 251,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bare rocks beside an indigenous tree",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.69352,
+          5.979617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 252,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bareland",
+        "description": "No vegetation nor trees",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.690997,
+          5.984466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 253,
+        "landcover": 5,
+        "year": 2024,
+        "class_name": "Built-up",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Built up area",
+        "description": "At the piedmont of Mount Mbam",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689706,
+          5.977711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 254,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bush burning",
+        "description": "Bush burned to generate pasture for cattle",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.693168,
+          5.980227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 255,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bush burning",
+        "description": "This is done by herders to generate fresh gass for cows",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691714,
+          5.978394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 256,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Bush fire",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691809,
+          5.981248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 257,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Community Water Tank & Catchment",
+        "description": "Stores water which is distributed for community use",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.690128,
+          5.977894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 258,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Deforestation for fuel wood",
+        "description": "Bush fire and deforestation",
+        "LC2024_1": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.693639,
+          5.979432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 259,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Huge rock",
+        "description": "No suitable area for restoration",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.690719,
+          5.978107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 260,
+        "landcover": 6,
+        "year": 2024,
+        "class_name": "Bare / sparse vegetation",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Huge rock desposite",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.692788,
+          5.979256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 261,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Medicinal Tree",
+        "description": "This tree is used to treat soar throat",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.690622,
+          5.985232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 262,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Pien (Orchid) Tree",
+        "description": "A medicinal plant to treat cows of stomach issues",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.690832,
+          5.98496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 263,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Pond",
+        "description": "It's a bid dry because of the dry season",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689105,
+          5.976814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 264,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Riparian Forest",
+        "description": "The stream here has dried off given that it is dry season",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691151,
+          5.983548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 265,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Riparian Forest & River",
+        "description": "River is used for domestic purposes including molding of blocks, bathing, laundry etc",
+        "LC2024_1": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689225,
+          5.986503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 266,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Riparian Forest with tall trees",
+        "description": null,
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691355,
+          5.98289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 267,
+        "landcover": 1,
+        "year": 2024,
+        "class_name": "Tree cover",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Thick Riparian Forest",
+        "description": "Has many tree species and birds",
+        "LC2024_1": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.690057,
+          5.977733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 268,
+        "landcover": 8,
+        "year": 2024,
+        "class_name": "Permanent water bodies",
+        "source": "Field_Survey",
+        "weight": 3,
+        "original_name": "Verand Stream/water fall",
+        "description": "It has rocks and trees, will low volume due given that it's dry season and also because of deforestation",
+        "LC2024_1": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689774,
+          5.975093
+        ]
+      }
+    }
+  ]
+}

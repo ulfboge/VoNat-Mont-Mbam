@@ -1,0 +1,13 @@
+Land Cover Type,CCDC Count,Field Observation Count,Matching Count,Commission Error,Commission Error (%),Omission Error,Omission Error (%)
+Tree cover,37,89,25,12,32.432432432432435,64,71.91011235955057
+Shrubland,15,11,1,14,93.33333333333333,10,90.9090909090909
+Grassland,139,26,23,116,83.45323741007195,3,11.538461538461538
+Cropland,38,11,8,30,78.94736842105263,3,27.27272727272727
+Built-up,18,29,7,11,61.111111111111114,22,75.86206896551724
+Bare / sparse vegetation,8,69,4,4,50.0,65,94.20289855072464
+Snow and ice,0,0,0,0,0.0,0,0.0
+Permanent water bodies,0,19,0,0,0.0,19,100.0
+Herbaceous wetland,0,1,0,0,0.0,1,100.0
+Mangroves,0,0,0,0,0.0,0,0.0
+Moss and lichen,0,0,0,0,0.0,0,0.0
+Land cover change,0,0,0,0,0.0,0,0.0

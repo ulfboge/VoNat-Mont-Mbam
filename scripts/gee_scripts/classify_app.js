@@ -40,8 +40,8 @@ var FULLBANDS = BANDS.concat(INDICES)
 var BPBANDS = ['GREEN', 'RED', 'NIR', 'SWIR1', 'SWIR2']
 var TMBANDS = ['GREEN', 'SWIR2']
 var dateFormat = 1
-var ccdResultsCollection = ee.ImageCollection('projects/CCDC/v3')
-var ccdResults = ccdResultsCollection.mosaic()
+// Use the Mt Mbam CCDC results asset
+var ccdResults = ee.Image('projects/ee-komba/assets/vonat/CCDC_Mt_Mbam_Results')
 
 // June 16th, checked for format 
 /**
@@ -97,7 +97,7 @@ var properties = function() {
   // CCDC date format
   this.dateFormat = 1
   // Default path to input data
-  this.inputPath = 'projects/CCDC/v3'
+  this.inputPath = 'projects/ee-komba/assets/vonat/CCDC_Mt_Mbam_Results'
   // List of possible date formats
   this.dateFormatList = [
     'Julian Days (0)',
