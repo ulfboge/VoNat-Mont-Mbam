@@ -85,6 +85,15 @@ ENV/
 *.bmp
 *.svg
 
+# Exception for report figures
+!docs/figures/fire_frequency.png
+!docs/figures/land_cover_2024.png
+!docs/figures/land_cover_change.png
+!docs/figures/land_cover_pie_charts.png
+!docs/figures/small_area_annual_burned_area.png
+!docs/figures/small_area_cumulative_forest_loss.png
+!docs/figures/small_area_landcover_2024.png
+
 # Exclude specific directories that might contain large files
 qgis/raster/
 outputs/charts_figures/
