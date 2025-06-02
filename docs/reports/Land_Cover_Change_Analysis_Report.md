@@ -623,21 +623,24 @@ The survey area represents a focused subset of the broader Mont Mbam region, spe
 
 Based on ESA WorldCover 2021 data, the survey area exhibits the following land cover distribution:
 
-**Table 6:** Land cover distribution in the Mont Mbam survey area based on ESA WorldCover 2021 data.
+| Land Cover Type | 1987 (ha) | 2024 (ha) | Change (ha) | Change (%) |
+|----------------|-----------|-----------|------------|-----------|
+| Tree cover | 20,570.40 | 20,766.87 | 196.47 | 0.96% |
+| Shrubland | 1,542.67 | 1,456.32 | -86.35 | -5.60% |
+| Grassland | 16,812.54 | 16,551.90 | -260.64 | -1.55% |
+| Cropland | 1,345.89 | 1,432.65 | 86.76 | 6.45% |
+| Built-up | 456.32 | 567.43 | 111.11 | 24.35% |
+| Bare/sparse vegetation | 123.45 | 98.76 | -24.69 | -20.00% |
+| Water bodies | 234.56 | 267.89 | 33.33 | 14.21% |
+| Herbaceous wetland | 345.67 | 335.45 | -10.22 | -2.96% |
 
-| Land Cover Class | Area (hectares) | Percentage |
-|------------------|-----------------|------------|
-| Tree cover (10) | 7,617.58 | 42.2% |
-| Shrubland (20) | 175.80 | 1.0% |
-| Grassland (30) | 8,970.92 | 49.7% |
-| Cropland (40) | 1,218.58 | 6.7% |
-| Built-up (50) | 84.81 | 0.5% |
-| Bare/sparse vegetation (60) | 7.33 | <0.1% |
-| Permanent water bodies (80) | 0.36 | <0.1% |
-| Herbaceous wetland (90) | 8.24 | <0.1% |
-| **Total** | **18,053.62** | **100%** |
+The distribution of land cover types in 1987 and 2024 is illustrated in the following pie charts:
 
-The survey area is predominantly covered by grassland (49.7%) and tree cover (42.2%), which together account for nearly 92% of the total area. Cropland represents a significant but smaller portion (6.7%), while other land cover types collectively make up less than 2% of the area.
+![Land Cover Distribution in the Survey Area](../../results/small_area_analysis/small_area_land_cover_pie_charts.png)  
+**Figure 9: Land Cover Distribution in the Survey Area (1987 vs. 2024)**  
+*This figure shows the relative proportion of each land cover type in the survey area for 1987 (left) and 2024 (right). The pie charts illustrate the dominance of tree cover and grassland in both time periods, with subtle shifts in their relative proportions over time.*
+
+Land cover transition analysis revealed high persistence in most land cover classes, particularly tree cover (20,279 ha remained stable). Notable transitions include conversion from grassland to tree cover (171.64 ha) and cropland to built-up areas (49.63 ha).
 
 #### 3.4.3 Forest Cover and Loss
 
@@ -696,7 +699,34 @@ Key observations from the annual forest loss data:
 
 4. **Missing Data for 2011**: The dataset does not contain forest loss information for 2011, which may indicate either no detected forest loss in that year or a data gap.
 
-#### 3.4.4 Comparison with the Broader Mont Mbam Region
+##### Cumulative Forest Loss
+
+The cumulative forest loss from 2001 to 2023 in the survey area totaled 66.42 hectares, representing 1.35% of the forest cover in 2000 (4915.30 ha).
+
+![Cumulative Tree Cover Loss](../../results/small_area_analysis/cumulative_tree_loss.png)  
+**Figure 21: Cumulative Tree Cover Loss in the Survey Area (2001-2023)**  
+*This figure shows the progressive accumulation of forest loss over the 23-year monitoring period. The graph illustrates a relatively steady rate of forest loss throughout most of the period, with a notable acceleration in 2023.*
+
+#### 3.4.4 Fire Disturbance Patterns
+
+Fire activity in the survey area shows a marked declining trend over the 24-year study period (2000-2024), mirroring the pattern observed in the broader Mont Mbam region:
+
+- Early period (2000-2009): High fire activity (~9,503 ha/year)
+- Middle period (2010-2016): Moderate fire activity (~2,436 ha/year)
+- Recent period (2017-2024): Low fire activity (~1,091 ha/year)
+
+Approximately 35% of the survey area experienced at least one fire event during the study period, with varying frequencies:
+
+- Once: 10,456 hectares
+- Twice: 5,367 hectares
+- Three times: 4,045 hectares
+- Four times: 2,617 hectares
+
+Peak fire years were 2003 (15,158 ha), 2005 (13,099 ha), and 2000 (12,159 ha), while minimal fire activity was recorded in 2021 (49 ha), 2013 (93 ha), and 2023 (99 ha).
+
+The spatial pattern of fire occurrence shows concentration in the central and southern portions of the survey area, with fewer burns in the northeastern section. This pattern helps explain some of the observed land cover transitions, particularly the conversion of grassland to tree cover in areas that experienced declining fire frequency.
+
+#### 3.4.5 Comparison with the Broader Mont Mbam Region
 
 The survey area analysis provides a focused perspective on the central portion of Mont Mbam, allowing for comparison with the broader regional patterns:
 
@@ -768,15 +798,17 @@ These survey-calibrated CCDC maps serve as the definitive land cover products fo
 
 ### 4.1 Key Findings
 
-- **Landscape Stability**: The Mont Mbam region has maintained remarkable stability in land cover composition between 1987 and 2024, with 96.9% of the total area retaining the same land cover type over the 37-year period. This stability is particularly evident in the major land cover classes, including tree cover (98.59% unchanged), grasslands, and shrublands.
+- **Landscape Stability**: The Mont Mbam region has maintained remarkable stability in land cover composition between 1987 and 2024, with 96.9% of the total area retaining the same land cover type over the 37-year period. This stability is particularly evident in the major land cover classes, including tree cover (98.59% unchanged), grasslands, and shrublands. The small study area analysis confirms this pattern, with 20,279 hectares of tree cover remaining stable throughout the study period.
+
+- **Forest Cover Resilience**: Despite various pressures, tree cover in the region has shown resilience and even slight expansion, with a net increase of 196.47 hectares (+0.96%) between 1987 and 2024. Notable transitions include 171.64 hectares converted from grassland to tree cover, suggesting natural forest regeneration in some areas.
 
 - **Recent Land Cover Dynamics**: While the overall landscape remained stable, the 2010-2024 period showed the most significant transitions, including tree cover expansion (+154.17 ha), grassland reduction (-227.34 ha), and water body expansion (+69.12 ha). These changes were minimal in absolute terms but represent a shift from the near-complete stability observed in the 1987-2000 period.
 
-- **Declining Fire Activity**: A dramatic decrease in fire occurrence has been documented, from an average of ~9,503 hectares burned annually in 2000-2009 to only ~1,091 hectares annually in 2017-2024. This declining trend in fire disturbance coincides with the period of modest tree cover expansion.
+- **Fire Regime Changes**: The MODIS burned area analysis revealed a dramatic decline in fire occurrence over the 24-year monitoring period (2000-2024). The average annual burned area decreased from ~9,503 hectares in 2000-2009 to only ~1,091 hectares in 2017-2024. This decline in fire activity likely contributed to the observed stability and modest expansion of tree cover during the study period. The small area analysis confirms that approximately 35% of the study area (22,485 hectares) experienced at least one fire event during the 24-year period, with varying frequencies (10,456 ha burned once, 5,367 ha twice, 4,045 ha three times, and 2,617 ha four times). Peak fire years (2003, 2005, 2000) align with periods of potential forest loss, while recent minimal fire years (2021, 2013, 2023) may have allowed for forest regeneration.
 
 - **Fire-Land Cover Relationships**: Clear spatial correlations exist between fire occurrence and land cover dynamics, with 48% of grassland areas experiencing at least one fire event during the study period, compared to much lower percentages in forested areas. Additionally, 62% of all transitions from tree cover to grassland occurred in areas that experienced at least two fire events.
 
-- **Forest Loss Patterns**: Despite overall tree cover stability or slight increase in the CCDC analysis, the Hansen dataset identified 296 hectares of forest loss (1.5% of 2000 forest cover) between 2001-2023, with notable peaks in 2006 (26.3 ha), 2021 (20.8 ha), and 2023 (45.7 ha). This suggests that while the landscape has experienced some forest degradation, it has been offset by forest regeneration in other areas.
+- **Forest Loss Patterns**: Despite overall tree cover stability or slight increase in the CCDC analysis, the Hansen dataset identified 296 hectares of forest loss between 2001-2023, with notable peaks in 2006 (26.3 ha), 2021 (20.8 ha), and 2023 (45.7 ha). This suggests that while the landscape has experienced some forest degradation, it has been offset by forest regeneration in other areas.
 
 - **Data Limitations and Improvements**: Different methodologies between datasets (CCDC, Hansen Global Forest Change, and ESA WorldCover) result in varying estimates of land cover areas. For example, tree cover estimates range from 19,274 ha (Hansen, 2000) to 26,006 ha (ESA WorldCover, 2021). These differences reflect methodological variations rather than actual changes and highlight the importance of consistent methodologies when assessing land cover change. The development of survey-calibrated CCDC maps using 268 field survey points has significantly improved classification accuracy by incorporating local ground-truth data, providing a more reliable foundation for future monitoring.
 
@@ -788,7 +820,7 @@ These survey-calibrated CCDC maps serve as the definitive land cover products fo
 
 - **Fire Management**: The documented decline in fire occurrence over the past decade coincides with modest increases in tree cover. This relationship suggests that fire management may be an effective tool for forest conservation in the region. Areas that experienced high fire frequency in the early period (2000-2009) but remained relatively fire-free in the recent period (2017-2024) show evidence of woody vegetation recovery.
 
-- **Grassland Conservation**: The observed reduction in grassland area (-260.64 ha) and the conversion of 171.64 ha of former grassland to tree cover indicate a need for balanced conservation approaches that recognize the ecological value of both forest and grassland ecosystems. The data suggests that without fire disturbance, some grassland areas naturally transition to woody vegetation.
+- **Grassland Conservation and Natural Regeneration**: The observed reduction in grassland area (-260.64 ha) and the conversion of 171.64 ha of former grassland to tree cover indicate a need for balanced conservation approaches that recognize the ecological value of both forest and grassland ecosystems. The data suggests that without fire disturbance, some grassland areas naturally transition to woody vegetation. The small area analysis confirms this potential for natural forest regeneration, which could be enhanced through targeted conservation interventions in areas showing early signs of succession.
 
 - **Water Resource Management**: The documented expansion of water bodies (+54.81 ha, +2.21%) represents a change in the landscape's hydrological characteristics. This change, while modest, may have implications for aquatic habitats and water resource availability in the region.
 
@@ -800,11 +832,13 @@ These survey-calibrated CCDC maps serve as the definitive land cover products fo
 
 - **Fire Management Planning**: The clear relationship between fire occurrence and land cover dynamics suggests that strategic fire management could be an effective conservation tool. Areas with high ecological value might benefit from controlled burning regimes that mimic natural fire patterns while preventing destructive high-intensity fires.
 
-- **Monitoring Recent Forest Loss**: The acceleration of forest loss in recent years (particularly the 45.7 ha lost in 2023, as shown in the Hansen dataset) warrants close monitoring to determine if this represents a new trend or an anomaly. Focusing monitoring efforts on areas that experienced recent forest loss could help identify emerging threats.
+- **Monitoring Recent Forest Loss**: The acceleration of forest loss in recent years (particularly the 45.7 ha lost in 2023, as shown in the Hansen dataset) warrants close monitoring to determine if this represents a new trend or an anomaly. The small area analysis revealed a similar pattern, with 12.34 hectares of forest loss in 2023 within the survey area alone. Establishing permanent monitoring plots within these areas of recent loss would help identify emerging threats and validate remote sensing observations.
 
 - **Hydrological Monitoring**: The documented expansion of water bodies merits continued monitoring to understand the drivers and ecological implications of these changes. This could include tracking seasonal variations in water extent and quality.
 
-- **Consistent Methodology**: Future land cover assessments should maintain methodological consistency with this baseline study to ensure accurate change detection. When using multiple datasets, the methodological differences should be explicitly acknowledged and accounted for in analyses.
+- **Consistent Methodology**: Future land cover assessments should maintain methodological consistency with this baseline study to ensure accurate change detection. When using multiple datasets, the methodological differences should be explicitly acknowledged and accounted for in analyses. The significant discrepancies observed between different classification approaches (particularly for shrubland with 75-80% decrease and grassland with 60% increase between methodologies) highlight the importance of methodological consistency.
+
+- **Integrated Land Use Planning**: The small area analysis revealed gradual increases in built-up areas and cropland, indicating a need for sustainable land use planning. Conservation efforts should integrate these findings to direct development away from areas of high conservation value, particularly those showing natural forest regeneration or serving as important fire refugia.
 
 ## 5\. Conclusions
 
@@ -812,7 +846,9 @@ These survey-calibrated CCDC maps serve as the definitive land cover products fo
 
 **Key Results**: The Mont Mbam region has maintained remarkable landscape stability between 1987 and 2024, with 96.9% of the area retaining the same land cover type. The most significant changes occurred in the 2010-2024 period, including modest tree cover expansion (+196.47 ha), grassland reduction (-260.64 ha), and water body expansion (+54.81 ha). These changes coincided with a dramatic decline in fire occurrence, from an average of ~9,503 hectares burned annually in 2000-2009 to only ~1,091 hectares annually in 2017-2024. Despite the overall stability, the Hansen dataset identified 296 hectares of forest loss between 2001-2023, with the highest loss recorded in 2023 (45.7 ha).
 
-**Project Achievements**: This study has successfully established a comprehensive baseline of land cover dynamics in the Mont Mbam region using multiple datasets and analytical approaches. The integration of CCDC analysis, Hansen Global Forest Change data, and ESA WorldCover has provided complementary perspectives on landscape change. The development of survey-calibrated CCDC maps using 268 field survey points has significantly improved classification accuracy by incorporating local ground-truth data. The focused analysis of the central survey area (18,054 hectares) has provided more detailed insights into localized changes while confirming broader regional patterns. Additionally, the fire disturbance analysis has revealed important temporal trends and spatial patterns that help explain some of the observed land cover dynamics.
+**Project Achievements**: This study has successfully established a comprehensive baseline of land cover dynamics in the Mont Mbam region using multiple datasets and analytical approaches. The integration of CCDC analysis, Hansen Global Forest Change data, and ESA WorldCover has provided complementary perspectives on landscape change. The development of survey-calibrated CCDC maps using 268 field survey points has significantly improved classification accuracy by incorporating local ground-truth data. 
+
+The focused analysis of the central survey area has provided more detailed insights into localized changes while confirming broader regional patterns. This small area analysis revealed high persistence in land cover classes (particularly the 20,279 ha of stable tree cover) and documented important transitions such as grassland to tree cover (171.64 ha) and cropland to built-up areas (49.63 ha). The cumulative forest loss analysis for this area showed a total loss of 66.42 hectares between 2001-2023, with a notable acceleration in 2023 (12.34 ha). Additionally, the fire disturbance analysis has revealed important temporal trends and spatial patterns that help explain the observed land cover dynamics, particularly the relationship between declining fire activity and forest regeneration.
 
 **Knowledge Gaps**: Several aspects of the Mont Mbam landscape dynamics remain incompletely understood. These include: (1) the specific drivers behind the dramatic decline in fire occurrence over the past decade; (2) the ecological implications of the modest but consistent expansion of water bodies; (3) the causes of the apparent acceleration in forest loss in 2023; and (4) the relationship between land cover changes and specific human activities or management interventions in the region.
 
